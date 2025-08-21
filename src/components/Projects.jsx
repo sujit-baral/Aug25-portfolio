@@ -4,13 +4,13 @@ import { ExternalLink, Github, Calendar } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: "EcoTracker",
-      description: "A comprehensive web application that helps users track their environmental impact and carbon footprint with interactive dashboards and personalized recommendations.",
-      image: "https://images.pexels.com/photos/433308/pexels-photo-433308.jpeg?auto=compress&cs=tinysrgb&w=600",
-      technologies: ["React", "Node.js", "MongoDB", "Chart.js"],
-      demoLink: "#",
-      githubLink: "#",
-      date: "2024"
+      title: "StudentManagementSystem",
+      description: "A powerful React-based web application designed to simplify student management by providing interactive dashboards, attendance tracking, department management, and performance insights for educational institutions",
+      image: "https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/feb6ff1f-d014-4a09-95a4-f0b8df43abe9.png",
+      technologies: ["React", "Node.js", "Supabase", "Chart.js"],
+      demoLink: "https://fascinating-gelato-5439fc.netlify.app/",
+      githubLink: "https://github.com/sujit-baral/student-management-system",
+      date: "2025"
     },
     {
       title: "StudyBuddy",
