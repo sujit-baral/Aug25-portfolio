@@ -206,7 +206,7 @@ const Contact = () => {
         
         <div className="border-t border-gray-800 mt-16 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 John Smith. Built with React and Tailwind CSS.
+            © 2025 Sujit Baral. Built with React and Tailwind CSS.
           </p>
         </div>
       </div>
